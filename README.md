@@ -13,3 +13,5 @@ Usage:
 ```
 python3 /path/to/ansible-interactive.py /path/to/playbooks/dir
 ```
+
+![ansible-interactive-demo.gif](ansible-interactive-demo.gif)
